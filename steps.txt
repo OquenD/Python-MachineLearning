@@ -1,0 +1,4 @@
+#Download anaconda for python
+#open Terminal window and type jupyter notebook
+
+#download a dataset : kaggle.com
